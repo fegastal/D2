@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: 'Caesar Dressing', cursive; 
+    
+}
+
+h1 {
+
+    margin: 0;
+    /* transform: rotate (10 deg); */
+
+}
+
+header {
+
+    background-image: url("../imagem/PicMonkey-Collage4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+nav { 
+    align-items: center;
+    background-color:aquamarine;
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+
+
+
+
+
+}
+
